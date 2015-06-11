@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#ffffffff</color>
+    <color name="color_main">#ff45c01a</color>
+    <color name="color_line">#ffe3e3e3</color>
+    <color name="color_press">#ffeeeeee</color>
+    <color name="color_translation">#00000000</color>
+    <color name="color_hint">#ffb8b8b8</color>
+    <color name="color_bar">#FF091E0A</color>
+    <color name="color_cursor">#FD1B8358</color>
+    <color name="main_color_1">#333333</color>
+    <color name="main_color_2">#666666</color>
+    <color name="main_color_3">#999999</color>
+    <color name="main_color_4">#ffff1322</color>
+</resources>
