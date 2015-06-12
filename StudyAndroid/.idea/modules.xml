@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Crashhandler/Crashhandler.iml" filepath="$PROJECT_DIR$/Crashhandler/Crashhandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pathanim/Pathanim.iml" filepath="$PROJECT_DIR$/Pathanim/Pathanim.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scrollstripview/Scrollstripview.iml" filepath="$PROJECT_DIR$/Scrollstripview/Scrollstripview.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyAndroid.iml" filepath="$PROJECT_DIR$/StudyAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toolbar/Toolbar.iml" filepath="$PROJECT_DIR$/Toolbar/Toolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/UmsAgent/UmsAgent.iml" filepath="$PROJECT_DIR$/UmsAgent/UmsAgent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

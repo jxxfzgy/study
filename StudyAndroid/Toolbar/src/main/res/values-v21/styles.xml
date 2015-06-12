@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppThemeParent">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="android:navigationBarColor">@android:color/holo_red_light</item>
+    </style>
+</resources>

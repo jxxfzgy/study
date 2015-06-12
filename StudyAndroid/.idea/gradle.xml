@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Crashhandler" />
+            <option value="$PROJECT_DIR$/Pathanim" />
             <option value="$PROJECT_DIR$/Scrollstripview" />
+            <option value="$PROJECT_DIR$/Toolbar" />
             <option value="$PROJECT_DIR$/UmsAgent" />
             <option value="$PROJECT_DIR$/app" />
           </set>
